@@ -8,6 +8,7 @@
 <body>
 <?php
     echo "xin chào github vcl!!";
+    echo "Update!!";
 
 ?>
 </body>
